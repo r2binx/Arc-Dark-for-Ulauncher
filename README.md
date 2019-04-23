@@ -1,8 +1,8 @@
-# Arc Dark for Ulauncher
+# Nord for Ulauncher
 
 Based on the Arc Theme by horst3180 (https://github.com/horst3180/arc-theme)
 
-## Arc Dark
+## Nord
 
 ![Arc Dark Theme](/arc-dark/screenshot.png?raw=true "Arc Dark")
 
